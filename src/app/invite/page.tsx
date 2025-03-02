@@ -1,6 +1,3 @@
-import { IconButton } from '@/components/icon-button'
-import { InputField, InputIcon, InputRoot } from '@/components/input'
-import { BadgeCheck, Copy, Link, Medal, MousePointerClick } from 'lucide-react'
 import Image from 'next/image'
 import logo from '../../assets/logo.svg'
 import { InviteLinkInput } from './invite-link-input'
