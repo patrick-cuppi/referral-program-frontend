@@ -1,8 +1,6 @@
-import { Button } from '@/components/button'
-import { InputField, InputIcon, InputRoot } from '@/components/input'
-import { ArrowRight, Mail, Radio, User } from 'lucide-react'
+import { Radio } from 'lucide-react'
 import Image from 'next/image'
-import logo from '../assets/logo.svg'
+import logo from '../../assets/logo.svg'
 import { SubscriptionForm } from './subscription-form'
 
 export default function Home() {
